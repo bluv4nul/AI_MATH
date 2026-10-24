@@ -4,12 +4,12 @@
 
 **Выполнил:** Фролов А.А., 3 курс, группа ИВТ-2.3
 
-| Лаба | Тема | Ноутбук |
-|---|---|---|
-| 1 | Математический анализ. Матричное исчисление | [Lab1_Calculus/lab1.ipynb](Lab1_Calculus/lab1.ipynb) |
-| 2 | Начало работы с языковыми моделями | [Lab2_LanguageModels/lab2.ipynb](Lab2_LanguageModels/lab2.ipynb) |
-| 3 | Автоматическое дифференцирование. Основы Autograd | [Lab3_Autograd/lab3.ipynb](Lab3_Autograd/lab3.ipynb) |
-| 4 | Векторный Autograd | [Lab4_BinaryClassification/lab4.ipynb](Lab4_BinaryClassification/lab4.ipynb) |
+| Лаба | Тема | Ноутбук | Отчёт |
+|---|---|---|---|
+| 1 | Математический анализ. Матричное исчисление | [lab1.ipynb](Lab1_Calculus/lab1.ipynb) | [README](Lab1_Calculus/README.md) |
+| 2 | Начало работы с языковыми моделями | [lab2.ipynb](Lab2_LanguageModels/lab2.ipynb) | [README](Lab2_LanguageModels/README.md) |
+| 3 | Автоматическое дифференцирование. Основы Autograd | [lab3.ipynb](Lab3_Autograd/lab3.ipynb) | [README](Lab3_Autograd/README.md) |
+| 4 | Векторный Autograd | [lab4.ipynb](Lab4_BinaryClassification/lab4.ipynb) | [README](Lab4_BinaryClassification/README.md) |
 
 ## Запуск
 
